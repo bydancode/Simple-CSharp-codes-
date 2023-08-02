@@ -1,0 +1,15 @@
+/Users/danielfranco/Documents/netLearn/netConsoleApp/bin/Debug/net7.0/netConsoleApp
+/Users/danielfranco/Documents/netLearn/netConsoleApp/bin/Debug/net7.0/netConsoleApp.deps.json
+/Users/danielfranco/Documents/netLearn/netConsoleApp/bin/Debug/net7.0/netConsoleApp.runtimeconfig.json
+/Users/danielfranco/Documents/netLearn/netConsoleApp/bin/Debug/net7.0/netConsoleApp.dll
+/Users/danielfranco/Documents/netLearn/netConsoleApp/bin/Debug/net7.0/netConsoleApp.pdb
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.csproj.AssemblyReference.cache
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.AssemblyInfoInputs.cache
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.AssemblyInfo.cs
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.csproj.CoreCompileInputs.cache
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.dll
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/refint/netConsoleApp.dll
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.pdb
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/netConsoleApp.genruntimeconfig.cache
+/Users/danielfranco/Documents/netLearn/netConsoleApp/obj/Debug/net7.0/ref/netConsoleApp.dll
